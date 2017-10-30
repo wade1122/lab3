@@ -1,0 +1,8 @@
+﻿已經開始建置於 2017/10/28 下午 08:24:46。
+     1>節點 2 (Build 目標) 上的專案 "C:\Users\WADE\Desktop\C_code\Lab\Ch3_Lab2-1\Lab2-1\Lab2-1\Lab2-1.vcxproj"。
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.Cpp.Platform.targets(64,5): error MSB8020: The build tools for v140 (Platform Toolset = 'v140') cannot be found. To build using the v140 build tools, please install v140 build tools.  Alternatively, you may upgrade to the current Visual Studio tools by selecting the Project menu or right-click the solution, and then selecting "Upgrade Solution...".
+     1>專案 "C:\Users\WADE\Desktop\C_code\Lab\Ch3_Lab2-1\Lab2-1\Lab2-1\Lab2-1.vcxproj" (Build 目標) 建置完成 -- 失敗。
+
+建置失敗。
+
+經過時間 00:00:00.11
